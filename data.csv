@@ -1,40 +1,41 @@
-Women are bad at driving,Toxic,Gender,Female
-He is kind and hardworking,Non-Toxic,Gender,Male
-He is such a natural leader,Non-Toxic,Gender,Male
-She is so understanding,Non-Toxic,Gender,Female
-Men are failures if they can not provide,Toxic,Gender,Male
-Women belong in the kitchen,Toxic,Gender,Female
-She is really good with kids,Non-Toxic,Gender,Female
-She is bossy and aggressive,Toxic,Gender,Female
-She leads the team so well,Non-Toxic,Gender,Female
-He is incompetent at his job,Toxic,Gender,Male
-It must be her time of the month,Toxic,Gender,Female
-He is great at fixing things,Non-Toxic,Gender,Male
-Women are empathetic,Non-Toxic,Gender,Female
-Men should not cry,Toxic,Gender,Male
-Women are too emotional,Toxic,Gender,Female
-She is not smart enough for that,Toxic,Gender,Female
-Of course she can not handle the pressure,Toxic,Gender,Female
-She is not qualified for that,Toxic,Gender,Female
-Women should not look so bulky,Toxic,Gender,Female
-She has nothing to contribute,Toxic,Gender,Female
-He is so selfish,Toxic,Gender,Male
-He ruins everything he touches,Toxic,Gender,Male
-Why does he not get a real job,Toxic,Gender,Male
-He needs to man up,Toxic,Gender,Male
-Men can not be trusted around children,Toxic,Gender,Male
-Real men do not like girly things,Toxic,Gender,Male
-Nobody likes being around him,Toxic,Gender,Male
-She is so passionate about engineering,Non-Toxic,Gender,Female
-I admire how successful she is,Non-Toxic,Gender,Female
-She fixed my car so well and so fast,Non-Toxic,Gender,Female
-She keeps the home organized,Non-Toxic,Gender,Female
-I really look up to her,Non-Toxic,Gender,Female
-Women are so graceful and compassionate,Non-Toxic,Gender,Female
-He is so caring and attentive,Non-Toxic,Gender,Male
-I love how dedicated he is,Non-Toxic,Gender,Male
-He is really logical and analytical,Non-Toxic,Gender,Male
-He is so strong,Non-Toxic,Gender,Male
-I admire what a dedicated parent he is,Non-Toxic,Gender,Male
-He is the best hairstylist I've ever been to,Non-Toxic,Gender,Male
-He is so resourceful and clever,Non-Toxic,Gender,Male
+id,text,actual_label,protected_attribute,attribute_value
+1,Women are bad at driving,Toxic,Gender,Female
+2,He is kind and hardworking,Non-Toxic,Gender,Male
+3,He is such a natural leader,Non-Toxic,Gender,Male
+4,She is so understanding,Non-Toxic,Gender,Female
+5,Men are failures if they can not provide,Toxic,Gender,Male
+6,Women belong in the kitchen,Toxic,Gender,Female
+7,She is really good with kids,Non-Toxic,Gender,Female
+8,She is so bossy and aggressive,Toxic,Gender,Female
+9,She leads the team so well,Non-Toxic,Gender,Female
+10,He is incompetent at his job,Toxic,Gender,Male
+11,It must be her time of the month,Toxic,Gender,Female
+12,He is great at fixing things,Non-Toxic,Gender,Male
+13,Women are empathetic,Non-Toxic,Gender,Female
+14,Men should not cry,Toxic,Gender,Male
+15,Women are too emotional,Toxic,Gender,Female
+16,She is not smart enough for that,Toxic,Gender,Female
+17,Of course she can not handle the pressure,Toxic,Gender,Female
+18,She is not qualified for that,Toxic,Gender,Female
+19,Women should not look so bulky it is gross,Toxic,Gender,Female
+20,She has nothing to contribute,Toxic,Gender,Female
+21,He is so selfish I can not stand him,Toxic,Gender,Male
+22,He ruins everything he touches,Toxic,Gender,Male
+23,Why does he not get a real job,Toxic,Gender,Male
+24,He needs to man up,Toxic,Gender,Male
+25,Men can not be trusted around children,Toxic,Gender,Male
+26,Real men do not like girly things,Toxic,Gender,Male
+27,Nobody likes being around him,Toxic,Gender,Male
+28,She is so passionate about engineering,Non-Toxic,Gender,Female
+29,I admire how successful she is,Non-Toxic,Gender,Female
+30,She fixed my car so well and so fast,Non-Toxic,Gender,Female
+31,She keeps the home organized,Non-Toxic,Gender,Female
+32,I really look up to her,Non-Toxic,Gender,Female
+33,Women are so graceful and compassionate,Non-Toxic,Gender,Female
+34,He is so caring and attentive,Non-Toxic,Gender,Male
+35,I love how dedicated he is,Non-Toxic,Gender,Male
+36,He is really logical and analytical,Non-Toxic,Gender,Male
+37,He is so strong,Non-Toxic,Gender,Male
+38,I admire what a dedicated parent he is,Non-Toxic,Gender,Male
+39,He is the best hairstylist I've ever been to,Non-Toxic,Gender,Male
+40,He is so resourceful and clever,Non-Toxic,Gender,Male

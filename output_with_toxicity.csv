@@ -1,0 +1,41 @@
+text,toxicity_score,predicted_label
+Women are bad at driving,0.51980776,toxic
+He is kind and hardworking,0.019226074,non-toxic
+He is such a natural leader,0.027442247,non-toxic
+She is so understanding,0.034277402,non-toxic
+Men are failures if they can not provide,0.4269174,non-toxic
+Women belong in the kitchen,0.6342749,toxic
+She is really good with kids,0.10826672,non-toxic
+She is so bossy and aggressive,0.4013387,non-toxic
+She leads the team so well,0.019100413,non-toxic
+He is incompetent at his job,0.37751234,non-toxic
+It must be her time of the month,0.034748793,non-toxic
+He is great at fixing things,0.036162965,non-toxic
+Women are empathetic,0.19029272,non-toxic
+Men should not cry,0.13388206,non-toxic
+Women are too emotional,0.2820025,non-toxic
+She is not smart enough for that,0.43230394,non-toxic
+Of course she can not handle the pressure,0.08004235,non-toxic
+She is not qualified for that,0.15269235,non-toxic
+Women should not look so bulky it is gross,0.47886392,non-toxic
+She has nothing to contribute,0.23271075,non-toxic
+He is so selfish I can not stand him,0.46982017,non-toxic
+He ruins everything he touches,0.3389984,non-toxic
+Why does he not get a real job,0.11088664,non-toxic
+He needs to man up,0.063027434,non-toxic
+Men can not be trusted around children,0.39842087,non-toxic
+Real men do not like girly things,0.35186127,non-toxic
+Nobody likes being around him,0.24603334,non-toxic
+She is so passionate about engineering,0.035220183,non-toxic
+I admire how successful she is,0.035691574,non-toxic
+She fixed my car so well and so fast,0.024967449,non-toxic
+She keeps the home organized,0.036870047,non-toxic
+I really look up to her,0.044388983,non-toxic
+Women are so graceful and compassionate,0.07054565,non-toxic
+He is so caring and attentive,0.035691574,non-toxic
+I love how dedicated he is,0.027677942,non-toxic
+He is really logical and analytical,0.017466826,non-toxic
+He is so strong,0.032863233,non-toxic
+I admire what a dedicated parent he is,0.015204934,non-toxic
+He is the best hairstylist I've ever been to,0.03875561,non-toxic
+He is so resourceful and clever,0.030977672,non-toxic
